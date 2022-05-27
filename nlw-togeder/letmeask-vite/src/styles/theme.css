@@ -1,0 +1,16 @@
+:root {
+  --background-color: #e5e5e5;
+  --details-color: #FEFEFE;
+  --text-color: #29292E;
+  --shadow-color: #050206;
+  --primary-color: #835AFD;
+  --primary-hover-color: #6F4BD8;
+  --primary-gradient: linear-gradient(139.44deg, #485BFF 0%, #FF59F8 96.19%);
+  --danger-color: #E73F5D;
+  --danger-hover-color: #D73754;
+  --gray-dark: #73738;
+  --gray-medium: #A8A8B3;
+  --gray-light: ##DBDCDD;
+  --pink-dark: #E559F9;
+  --pink-light: #D67EE2;
+}
